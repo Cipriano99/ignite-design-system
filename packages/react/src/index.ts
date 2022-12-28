@@ -1,3 +1,3 @@
-import { colors } from '@cipriano99-ignite-ui/tokens';
+import { colors } from '@cipriano99-ignite-ui/tokens'
 
-console.log(colors);
+console.log(colors)
