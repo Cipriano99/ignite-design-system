@@ -28,9 +28,10 @@
   },
   "dependencies": {
     "@cipriano99-ignite-ui/eslint-config": "*",
-    "@cipriano99-ignite-ui/ts-config": "*",
     "@cipriano99-ignite-ui/react": "*",
     "@cipriano99-ignite-ui/tokens": "*",
+    "@cipriano99-ignite-ui/ts-config": "*",
+    "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
