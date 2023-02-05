@@ -1,4 +1,4 @@
-import { StoryObj, Meta, addDecorator } from "@storybook/react"
+import { StoryObj, Meta } from "@storybook/react"
 import { Box, Text, TextInput, TextInputProps } from '@cipriano99-ignite-ui/react'
 
 export default {
