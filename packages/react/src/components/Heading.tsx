@@ -12,7 +12,7 @@ export const Heading = styled('h2', {
     size: {
       sm: { fontSize: '$xl' },
       md: { fontSize: '$2xl' },
-      lg: { fontSize: '$4lg' },
+      lg: { fontSize: '$4xl' },
       // xl: { fontSize: '$xl' },
       '2xl': { fontSize: '$5xl' },
       '3xl': { fontSize: '$6xl' },

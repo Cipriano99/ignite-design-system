@@ -8,8 +8,15 @@ export default {
   args: {
     src: 'https://github.com/cipriano99.png',
     alt: 'Samuel Cipriano'
+  },
+  
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      }
+    }
   }
-
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
