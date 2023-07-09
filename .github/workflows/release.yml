@@ -32,7 +32,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-          TURBO_TOKEN: yz4wjCL94iN3K6pr7ifyI2r4
+          TURBO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TURBO_TEAM: cipriano99
 
       # - name: Send a Slack notification if a publish happens
