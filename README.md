@@ -17,7 +17,7 @@ Nesta aplicação pode-se visualizar todos os componentes, valores de espaçamen
 ## Techs utilizadas
 
 - [Vite](https://vitejs.dev)
-- [Vite](https://react.dev)
+- [React](https://react.dev)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Stitches](https://stitches.dev/)
 - [TURBOREPO](https://turbo.build)
