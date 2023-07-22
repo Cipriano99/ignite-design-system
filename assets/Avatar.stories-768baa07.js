@@ -1,0 +1,2 @@
+import{A as t}from"./index-88f48cb3.js";import"./index-7cc2572b.js";import"./es.object.get-own-property-descriptor-3a7d61f2.js";import"./index-46fdd620.js";import"./jsx-runtime-c368ffdb.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/cipriano99.png",alt:"Samuel Cipriano"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{c as Primary,m as WithFallback,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-768baa07.js.map

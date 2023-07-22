@@ -1,0 +1,2 @@
+import{e as r}from"./index-88f48cb3.js";import{j as t}from"./jsx-runtime-c368ffdb.js";import"./index-7cc2572b.js";import"./es.object.get-own-property-descriptor-3a7d61f2.js";import"./index-46fdd620.js";const n={title:"Data display/Tooltip",component:r,args:{day:21,month:"Julho"},decorators:[o=>t("div",{style:{display:"flex",alignItems:"center",justifyContent:"center",backgroundColor:"$colors$gray200"},children:o()})],argTypes:{src:{}}},p={},m=["Primary"];export{p as Primary,m as __namedExportsOrder,n as default};
+//# sourceMappingURL=Tooltip.stories-e8ab6c59.js.map
