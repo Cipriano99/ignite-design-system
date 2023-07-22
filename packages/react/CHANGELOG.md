@@ -1,5 +1,11 @@
 # @cipriano99-ignite-ui/react
 
+## 3.0.0
+
+### Major Changes
+
+- Add Toast and Tooltip components
+
 ## 2.0.1
 
 ### Patch Changes
