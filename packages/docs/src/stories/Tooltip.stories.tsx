@@ -1,12 +1,12 @@
 import type { StoryObj, Meta } from "@storybook/react"
-import { Box, Text, Tooltip, TooltipProps } from '@cipriano99-ignite-ui/react'
+import { Tooltip, TooltipProps } from '@cipriano99-ignite-ui/react'
 
 export default {
   title: 'Data display/Tooltip',
   component: Tooltip,
 
   args: {
-    day: 12,
+    day: 21,
     month: 'Julho',
   },
 

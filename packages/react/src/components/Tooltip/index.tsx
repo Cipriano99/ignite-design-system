@@ -15,7 +15,7 @@ export const Tooltip = ({ day, month, unavailable = false }: TooltipProps) => {
           {day} de {month} - {unavailable ? 'Indisponível' : 'Disponível'}
         </Text>
       </S.TooltipContainer>
-      <Text>{day}</Text>
+      <Text>Hover me</Text>
     </S.TooltipWrapper>
   )
 }
